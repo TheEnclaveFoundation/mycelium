@@ -12,4 +12,5 @@
 
 ## Core Lessons for The Prime Resonance
 
-[Lessons on concepts like `Fellowship`, `Loss`, `Hope`, and `Power Dynamics` to be added here.]
+[Lessons on concepts like [[Principles/Fellowship|Fellowship]], [[Principles/Loss|Loss]], Hope, and Power Dynamics to be added here.]
+

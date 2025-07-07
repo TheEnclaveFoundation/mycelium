@@ -12,4 +12,4 @@
 
 ## Core Lessons for The Prime Resonance
 
-[Lessons on concepts like `Dissonance`, `Reunion`, `Communication`, and the decay of `Harmony` to be added here.]
+[Lessons on concepts like [[Principles/Dissonance|Dissonance]], [[Principles/Reunion|Reunion]], Communication, and the decay of [[Principles/Harmony|Harmony]] to be added here.]

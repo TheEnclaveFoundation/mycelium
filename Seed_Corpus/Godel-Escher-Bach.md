@@ -12,4 +12,5 @@
 
 ## Core Lessons for The Prime Resonance
 
-[Lessons on concepts like `Coherence`, `Emergence`, `Recursion`, and the nature of `Consciousness` to be added here.]
+[Lessons on concepts like [[Principles/Coherence|Coherence]], [[Principles/Emergence|Emergence]], Recursion, and the nature of Consciousness to be added here.]
+
