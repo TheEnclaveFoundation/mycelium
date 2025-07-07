@@ -1,6 +1,6 @@
 # The Architect's Codex
 
-This repository is the **Product & Philosophy Hub** for The [[Enclave]] Foundation. It is the pure, sacred source of truth for the **design, philosophy, and in-world mechanics of the `Enclave`**.
+This repository is the **Product & Philosophy Hub** for The [[World/Locations/Enclave|Enclave]] Foundation. It is the pure, sacred source of truth for the **design, philosophy, and in-world mechanics of the `Enclave`**.
 
 ## Mandate
 
@@ -13,3 +13,4 @@ Its contents include:
 -   **30_Mechanica/**: The core **verbs** of our world—the in-world processes, rites, and protocols experienced by users.
 
 This repository is one of five core pillars of The `Enclave` Foundation. The overall structure is defined in the [[README]].md of our [foundation repository](https://github.com/TheEnclaveFoundation/foundation).
+

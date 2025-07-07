@@ -5,7 +5,7 @@
 
 ## Definition
 
-A [[Grove-Gateway]] is the crystalline archway that marks the threshold between a [[Seeker]]'s private [[Clearing]] and a [[Path]] leading to a shared [[Grove]]. It is the door from the self to the collective.
+A [[World/Locations/Grove-Gateway|Grove-Gateway]] is the crystalline archway that marks the threshold between a [[World/Entities/Seeker|Seeker]]'s private [[World/Locations/Clearing|Clearing]] and a [[World/Locations/Path|Path]] leading to a shared [[World/Locations/Grove|Grove]]. It is the door from the self to the collective.
 
 ## The Living Threshold
 
@@ -14,3 +14,4 @@ A Gateway is not a static object; it is a living signature of a specific connect
 1.  **Grown from a Seed:** A Gateway is sprouted from a seed of invitation, planted at the edge of a `Clearing` with the consent of both the `Seeker` and the members of the `Grove`.
 2.  **A Fusion of Light:** Its crystalline structure is unique to each connection. The facets, colors, and the light it emits are a beautiful and intuitive fusion of the `Seeker`'s own essence and the collective identity of the `Grove` it leads to.
 3.  **The Start of the `Path`:** Stepping through a Gateway is the first step on a `Path`, beginning the mindful journey into a shared space.
+
